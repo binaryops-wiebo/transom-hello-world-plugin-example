@@ -1,6 +1,6 @@
 {
   "name": "helloplugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/binaryops-wiebo/transom-hello-world-plugin-example",
   "description": "TransomJS Example creating a Hello World plugin",
   "main": "index.js",
@@ -12,6 +12,6 @@
   "author": "Wiebo Troost",
   "license": "MIT",
   "dependencies": {
-    "@transomjs/transom-core": "^1.0.6"
+    "@transomjs/transom-core": "^2.0.0"
   }
 }
